@@ -34,5 +34,15 @@
         "link": "https://youtube.com/@linkhivescripts?si=Qxlh9f7v31VJOVtw"
       }
     ]
+  },
+  {
+    "name": "New *Best* Steal An Egg Script No Key - Instant Steal, God Mode, Auto Scramble, Prediction, & More",
+    "desc": "Steal an egg script with no key with many useful features - Cyrus Hub",
+    "link": "https://youtu.be/dw_wjR7nFPY?si=zJ6kZJFNJphFRvre",
+    "addedBy": "1320503159340138608",
+    "addedAt": "2026-09-26T02:07:21.898Z",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1512784791534305501/1553226264716771338/IMG_2904.png?ex=6ab87a2f&is=6ab728af&hm=4f1bd0a1768017884ae1897cb342b2e25b0331878ab813b04d810e6c9bc7b7df&",
+    "tag": "STEAL AN EGG",
+    "reward": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CyrusOffc/scriptcyrus/refs/heads/main/loader\"))()"
   }
 ]
