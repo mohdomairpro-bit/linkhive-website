@@ -54,5 +54,15 @@
     "thumbnail": "https://cdn.discordapp.com/attachments/1549903756684959774/1553920776514838628/IMG_4667.png?ex=6abb00ff&is=6ab9af7f&hm=30478deaec45f68325782d2f21d5c533c3a83b58f1e2d5f47076b527e70204c7&",
     "tag": "STEAL AN EGG",
     "reward": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/stealanegg\"))()"
+  },
+  {
+    "name": "[NO KEY] NEW STEAL AN EGG SCRIPT | INSTANT STEAL + ANTI AFK + AUTO SCRAMBLE + ANTI HIT AND MORE",
+    "desc": "Chilli Hub- Steal an egg script Op and works with new update",
+    "link": "https://youtu.be/arSi1wrI_O8?si=ZnDM4L76bc93E7Kz",
+    "addedBy": "1320503159340138608",
+    "addedAt": "2026-09-28T17:50:45.365Z",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1553830201308479499/1554183726651547789/829A1788-525E-422F-900D-18C3B8DF20E5.png?ex=6abbf5e3&is=6abaa463&hm=40d561cac982b540cf4a4288b39e17ce9d4779b4be961f31267dd9042cd28965&",
+    "tag": "STEAL AN EGG",
+    "reward": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/tienkhanh1/Chilli-Hub-Script/refs/heads/main/StealAnEgg\"))()"
   }
 ]
