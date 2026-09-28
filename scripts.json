@@ -64,5 +64,15 @@
     "thumbnail": "https://cdn.discordapp.com/attachments/1553830201308479499/1554183726651547789/829A1788-525E-422F-900D-18C3B8DF20E5.png?ex=6abbf5e3&is=6abaa463&hm=40d561cac982b540cf4a4288b39e17ce9d4779b4be961f31267dd9042cd28965&",
     "tag": "STEAL AN EGG",
     "reward": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/tienkhanh1/Chilli-Hub-Script/refs/heads/main/StealAnEgg\"))()"
+  },
+  {
+    "name": "Keyless Steal An Egg Script - Miranda Hub",
+    "desc": "OVERPOWERD STEAL AN EGG SCRIPT, WORKS FOR THE LATEST UPDATE.",
+    "link": "https://youtu.be/m4QaqVQyRcU?si=0QbWdzrjnabzf0ip",
+    "addedBy": "1320503159340138608",
+    "addedAt": "2026-09-28T20:58:19.195Z",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1553830201308479499/1554193941622956183/70587FC7-2461-40FC-8EC8-BD83EC970F9F.png?ex=6abbff67&is=6abaade7&hm=7908ba23cce709963cec614d499dfb8e9c97be0281cd50738d1ac5ab87e93351&",
+    "tag": "STEAL AN EGG",
+    "reward": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/miirandahub/loader/refs/heads/main/stealeggies\"))()"
   }
 ]
