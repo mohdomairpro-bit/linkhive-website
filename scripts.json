@@ -44,5 +44,15 @@
     "thumbnail": "https://cdn.discordapp.com/attachments/1512784791534305501/1553226264716771338/IMG_2904.png?ex=6ab87a2f&is=6ab728af&hm=4f1bd0a1768017884ae1897cb342b2e25b0331878ab813b04d810e6c9bc7b7df&",
     "tag": "STEAL AN EGG",
     "reward": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CyrusOffc/scriptcyrus/refs/heads/main/loader\"))()"
+  },
+  {
+    "name": "[KEYLESS] NEW STEAL AN EGG SCRIPT | INSTANT STEAL + AUTO SCRAMBLE + ANTI HIT  AND MORE",
+    "desc": "TSUO Hub - Steal an egg new version.",
+    "link": "https://youtu.be/-PhT1xR5S8s?si=5aueEO0L8b0FVrxQ",
+    "addedBy": "1320503159340138608",
+    "addedAt": "2026-09-28T00:56:59.375Z",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1549903756684959774/1553920776514838628/IMG_4667.png?ex=6abb00ff&is=6ab9af7f&hm=30478deaec45f68325782d2f21d5c533c3a83b58f1e2d5f47076b527e70204c7&",
+    "tag": "STEAL AN EGG",
+    "reward": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/stealanegg\"))()"
   }
 ]
