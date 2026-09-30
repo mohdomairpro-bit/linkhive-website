@@ -74,5 +74,14 @@
     "thumbnail": "https://cdn.discordapp.com/attachments/1553830201308479499/1554193941622956183/70587FC7-2461-40FC-8EC8-BD83EC970F9F.png?ex=6abbff67&is=6abaade7&hm=7908ba23cce709963cec614d499dfb8e9c97be0281cd50738d1ac5ab87e93351&",
     "tag": "STEAL AN EGG",
     "reward": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/miirandahub/loader/refs/heads/main/stealeggies\"))()"
+  },
+  {
+    "name": "NO KEY | Steal an egg script, auto scramble, auto steal and much more!",
+    "desc": "Pulse Hub Steal an egg OP",
+    "link": "https://youtu.be/bFpkRFxOAYo?si=9BjFae5IFXnxfvar",
+    "addedBy": "1320503159340138608",
+    "addedAt": "2026-09-30T00:46:23.457Z",
+    "tag": "STEAL AN EGG",
+    "reward": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PulseZax/Loader/refs/heads/main/.lua\"))()"
   }
 ]
