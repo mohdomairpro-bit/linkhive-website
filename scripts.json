@@ -83,5 +83,14 @@
     "addedAt": "2026-09-30T00:46:23.457Z",
     "tag": "STEAL AN EGG",
     "reward": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PulseZax/Loader/refs/heads/main/.lua\"))()"
+  },
+  {
+    "name": "[KEYLESS] NEW RIDE A PET SCRIPT | INSTANT STEAL + ANTI AFK + AUTO HOP + FILTER  AND MORE",
+    "desc": "Really Op ride a pet script + works for the new volcanic update - Linkhive Hub",
+    "link": "https://youtu.be/0hfM3JYDkjU?si=Qbu1idI2eoDIn72J",
+    "addedBy": "1320503159340138608",
+    "addedAt": "2026-10-01T00:43:50.237Z",
+    "tag": "RIDE A PET",
+    "reward": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/afkar-gg/sc/refs/heads/main/Linkhive/RideAPet.lua\"))()"
   }
 ]
