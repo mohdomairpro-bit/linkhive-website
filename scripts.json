@@ -101,5 +101,14 @@
     "addedAt": "2026-10-03T00:53:41.945Z",
     "tag": "BLOX FRUITS",
     "reward": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/UCT-hub/main/refs/heads/main/redz-v2\"))()"
+  },
+  {
+    "name": "KEYLESS STEAL AN EGG ANTI HIT AND AUTOFARM",
+    "desc": "OP VIREX HUB",
+    "link": "https://youtu.be/_V3Qz16nChc?si=BJVykZKOFnKNxEgO",
+    "addedBy": "1320503159340138608",
+    "addedAt": "2026-10-03T00:59:02.032Z",
+    "tag": "STEAL AN EGG",
+    "reward": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/virexx55/74e0a422d053354931d2f315e6d782e9/raw/fe9dee112054b4b1eadbe106bf2b7db26d821992/virex.lua\"))()"
   }
 ]
