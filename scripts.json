@@ -92,5 +92,14 @@
     "addedAt": "2026-10-01T00:43:50.237Z",
     "tag": "RIDE A PET",
     "reward": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/afkar-gg/sc/refs/heads/main/Linkhive/RideAPet.lua\"))()"
+  },
+  {
+    "name": "[🔥OP] NEW BLOX FRUITS SCRIPT KEYLESS | AUTO FARM + MAGNET TOKENS + SECRET QUEST + FRUIT ESP & MORE",
+    "desc": "NEW BLOX FRUITS SCRIPT KEYLESS | AUTO FARM + MAGNET TOKENS + SECRET QUEST + FRUIT ESP & MORE",
+    "link": "https://youtu.be/lfW_r2nrUEs?si=GYIKBo6ESJoNuGg8",
+    "addedBy": "1320503159340138608",
+    "addedAt": "2026-10-03T00:53:41.945Z",
+    "tag": "BLOX FRUITS",
+    "reward": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/UCT-hub/main/refs/heads/main/redz-v2\"))()"
   }
 ]
